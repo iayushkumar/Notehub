@@ -33,5 +33,8 @@ NoteHub is a full-stack web application built using the MERN stack (MongoDB, Exp
 ![Screenshot (102)](https://github.com/iayushkumar/Notehub/assets/106268239/f0c93b41-1784-48b0-89dc-9df022e1c93a)
 ![Screenshot (102)](https://github.com/iayushkumar/Notehub/assets/106268239/8d00a485-9c8c-4ae7-be98-3d259dc8b755)
 ![Screenshot (104)](https://github.com/iayushkumar/Notehub/assets/106268239/4554598e-5e28-4838-8b29-538865bf4748)
+![Screenshot (111)](https://github.com/iayushkumar/Notehub/assets/106268239/91afd289-d799-4ec7-9c81-2973950e0f5e)
+![Screenshot (112)](https://github.com/iayushkumar/Notehub/assets/106268239/f3bfe468-a01a-44ad-afd8-ad5edcc463f6)
+
 
 
